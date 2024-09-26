@@ -1,8 +1,8 @@
-## Hi there 👋 😁 My name is Hasan
-🌎 I am based in Chicago, Illinois
-💻 Languages I love are C++ and Python
-🧠 Currently learning Java, and React
-🤝 I am open to collaborating on projects
+## Hi there 👋 😁 My name is Hasan<br>
+🌎 I am based in Chicago, Illinois<br>
+💻 Languages I love are C++ and Python<br>
+🧠 Currently learning Java, and React<br>
+🤝 I am open to collaborating on projects<br>
 ✉️ Feel free to contact me at hasanmkhan98@gmail.com !
 
 <!--

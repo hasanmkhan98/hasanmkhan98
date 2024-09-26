@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 😁 My name is Hasan
+🌎 I am based in Chicago, Illinois
+💻 Languages I love are C++ and Python
+🧠 Currently learning Java, and React
+🤝 I am open to collaborating on projects
+✉️ Feel free to contact me at hasanmkhan98@gmail.com !
 
 <!--
 **hasanmkhan98/hasanmkhan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
